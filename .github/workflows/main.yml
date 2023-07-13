@@ -13,7 +13,7 @@ jobs:
 
       - name: Create release
         run: |
-          cd Platform
+          cd plat-vale
           echo $GITHUB_RUN_NUMBER > version.txt
           zip -r plat-vale.zip ./
           gh release create v$GITHUB_RUN_NUMBER 'plat-vale.zip'
