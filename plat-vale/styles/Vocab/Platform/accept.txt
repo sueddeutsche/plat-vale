@@ -15,13 +15,13 @@ DynamoDB
 EKS
 FAQ
 FAQs
+Flux
 Githook
 Githooks
 HCL
 Jira
 KDE
 KMS
-Kustomization
 Linux
 MFA
 MM
@@ -34,8 +34,7 @@ Terragrunt
 Ubuntu
 YYYY
 [Aa]lternatives
-[Aa]utoscaler
-[Aa]utoscaling
+[Aa]utoscal(ing|er)
 [Cc]ode
 [Cc]onfig
 [Dd]escheduler
@@ -69,6 +68,4 @@ macOS
 maintain
 mkdocs
 namespace
-repo
-repos
 rollout
