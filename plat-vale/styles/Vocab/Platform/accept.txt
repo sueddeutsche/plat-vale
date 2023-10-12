@@ -5,6 +5,7 @@ ARN
 Alternatives
 Atos
 Azure
+Boreus
 CD
 CI/CD
 CODEOWNERS
@@ -46,6 +47,7 @@ YYYY
 [Kk]ubectl
 [Kk]ustomization
 [Kk]ustomize
+[Mm]onitor
 [Nn]amespace
 [Oo]nboarding
 [Rr]epos
@@ -56,6 +58,8 @@ YYYY
 [Ww]e
 [Ww]orkmail
 as
+above
+below
 complete
 component
 Crossplane
