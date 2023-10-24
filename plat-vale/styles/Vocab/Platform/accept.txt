@@ -35,6 +35,7 @@ Terragrunt
 Ubuntu
 YYYY
 [Aa]lternatives
+[Aa]s
 [Aa]utoscal(ing|er)
 [Cc]ode
 [Cc]onfig
@@ -57,13 +58,13 @@ YYYY
 [Tt]ype
 [Ww]e
 [Ww]orkmail
-as
 above
 below
 complete
 component
 Crossplane
 deploy
+Dex
 Dockerfile
 ENV
 fluxcomp
