@@ -27,6 +27,7 @@ Linux
 MFA
 MM
 Nodegroup
+PrivateLink
 RFC
 RFCs
 SZDM
@@ -43,6 +44,7 @@ YYYY
 [Dd]one
 [Ee]nv
 [Hh]eredocs
+[Hh]ostname
 [Kk]ubeconfig
 [Kk]ubeconform
 [Kk]ubectl
