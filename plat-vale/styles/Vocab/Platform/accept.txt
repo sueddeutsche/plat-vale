@@ -7,6 +7,7 @@ Atos
 Azure
 Boreus
 CD
+Center
 CI/CD
 CODEOWNERS
 DD
@@ -20,6 +21,8 @@ Flux
 Githook
 Githooks
 HCL
+IAM
+Identity
 Jira
 KDE
 KMS
@@ -30,6 +33,7 @@ Nodegroup
 PrivateLink
 RFC
 RFCs
+SSO
 SZDM
 SZDMP
 Terragrunt
