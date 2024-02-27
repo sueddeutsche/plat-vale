@@ -43,6 +43,7 @@ YYYY
 [Aa]lternatives
 [Aa]s
 [Aa]utoscal(ing|er)
+[Bb]ootstrap
 [Cc]ode
 [Cc]onfig
 [Dd]escheduler
