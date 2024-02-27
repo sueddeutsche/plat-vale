@@ -33,6 +33,7 @@ Nodegroup
 PrivateLink
 RFC
 RFCs
+Spacelift
 SSO
 SZDM
 SZDMP
