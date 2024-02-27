@@ -14,10 +14,12 @@ DD
 DRY
 Datadog
 DynamoDB
+ECR
 EKS
 FAQ
 FAQs
 Flux
+GHCR
 Githook
 Githooks
 HCL
