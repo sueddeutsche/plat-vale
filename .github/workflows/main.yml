@@ -15,6 +15,6 @@ jobs:
         run: |
           echo $GITHUB_RUN_NUMBER > version.txt
           zip -r plat-vale.zip plat-vale
-          gh release create v$GITHUB_RUN_NUMBER 'plat-vale.zip'
+          gh release create v$GITHUB_RUN_NUMBER 'plat-vale.zip' --latest
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
