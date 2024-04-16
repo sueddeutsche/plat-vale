@@ -37,6 +37,7 @@ ENV
 [Hh]ostname
 FAQ
 FAQs
+Firefox
 Flux
 fluxcomp
 GHCR
