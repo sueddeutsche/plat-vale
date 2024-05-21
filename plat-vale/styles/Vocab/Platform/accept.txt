@@ -4,6 +4,8 @@ ADR
 ADRs
 ARN
 [Aa]lternatives
+[Aa]pplicationSet
+ArgoCD
 [Aa]s
 Atos
 [Aa]utoscal(ing|er)
@@ -39,6 +41,7 @@ FAQ
 FAQs
 Firefox
 Flux
+FluxCD
 fluxcomp
 GHCR
 Githook
@@ -61,6 +64,7 @@ MFA
 mkdocs
 MM
 [Mm]onitor
+[Mm]ulti-tier
 [Nn]amespace
 Nodegroup
 [Oo]nboarding
