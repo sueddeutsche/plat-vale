@@ -64,6 +64,7 @@ MFA
 mkdocs
 MM
 [Mm]onitor
+[Mm]ultiple
 [Mm]ulti-tier
 [Nn]amespace
 Nodegroup
