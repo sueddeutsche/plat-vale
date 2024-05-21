@@ -48,7 +48,7 @@ Githook
 Githooks
 HCL
 IAM
-Identity
+[Ii]dentity
 Jira
 KDE
 [Kk]ubeconfig
