@@ -87,3 +87,6 @@ Ubuntu
 [Ww]e
 [Ww]orkmail
 YYYY
+[Kk]yverno
+namespace(s|)
+
