@@ -7,7 +7,7 @@ on:
 jobs:
   release:
     name: Release
-    runs-on: ubuntu-latest
+    runs-on: ["ghcr.io/cirruslabs/ubuntu-runner-amd64:22.04-sm"]
     permissions:
       contents: write
     steps:
